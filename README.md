@@ -196,4 +196,3 @@ The final system processes EEG in real time, uses a 10‑second calibration to s
 ### 12) License
 
 This project is released under the MIT License. See `LICENSE` for details.
-# EEG-LED-RESPONSE-MOOD-DETECTION-CAP
